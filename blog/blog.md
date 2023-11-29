@@ -61,11 +61,13 @@ public Job partitionJob() {
 > * 여러 엑셀 파일을 만들고 하나로 병합 작업 방식을 채택
 > * Partitioning은 하나의 Job 에서 다수의 Secondary 생성
 <br>
+
 ![](img_4.png)
 
 > * PartitionStep 의 동작 방식
 >  + 내부적으로 Step을 분할하여 반복 실행하도록 실행됩니다.
 <br>
+
 ![](img_5.png)
 
 <hr/>
