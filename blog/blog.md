@@ -187,12 +187,10 @@ protected void doExecute(StepExecution stepExecution) throws Exception {
 >
 > 아래는 0분 마다 spring-batch.jar 을 실행하는 Build 에 대한 내용이구요.
 
-* Schedule Trigger 0분 마다 Build 하는 스케줄
-<br>
-![](img_1.png)
-* 원격 실행할 수 있는 스크립트 작성
-<br>
-![](img_2.png)
+> * Schedule Trigger 0분 마다 Build 하는 스케줄
+>   + ![](img_1.png)
+> * 원격 실행할 수 있는 스크립트 작성
+>   + ![](img_2.png)
 #### 2. 스케줄러 사용 ( crontab ) - 서버 직접 등록
 > linux 의 crontab -l, e, r 등 명령어로 스케줄 등록
 >
