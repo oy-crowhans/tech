@@ -63,8 +63,8 @@ public Job partitionJob() {
 
 ![](img_4.png)
 
-> * PartitionStep 의 동작 방식
-    >  + 내부적으로 Step을 분할하여 반복 실행하도록 실행되는 구조에요.
+> * PartitionStep 의 동작 방식 
+>   + 내부적으로 Step을 분할하여 반복 실행하도록 실행되는 구조에요.
 
 ![](img_5.png)
 
