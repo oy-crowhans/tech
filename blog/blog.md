@@ -108,7 +108,7 @@ public class ExcelJobListener implements JobExecutionListener {
 
 <hr/>
 
-* SpringBatch 를 사용하여 데이터를 추출할는 방식은 병렬처리를 사용하였습니다.
+* SpringBatch 를 사용한 데이터 추출 방식은 병렬처리 하였습니다.
 * 아래 4가지가 존재합니다.
 > 1. Multi-threaded Step
 > 2. Parallel Steps
